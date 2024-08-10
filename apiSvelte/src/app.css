@@ -1,0 +1,66 @@
+#buscador {
+    width: 500px; 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  font-size: 16px; 
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto; 
+}
+
+#personajes{
+  width: 150px; 
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
+  font-size: 10x; 
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#buscadores{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto; 
+  margin-top: 15px;
+}
+
+#head{
+  display: flex;
+  justify-content: center;
+  margin: 0 auto; 
+  font-size: 25px;
+}
+
+#driverinfo{
+  display: flex;
+  justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: thin;
+  padding-top: 50px;
+}
+
+#piloto{
+  height: auto;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+
+#imgpiloto{
+  height: 100px;
+  width: 100px;
+}
+
+#body{
+  background-image: url("L-072519-21910-27.jpg");
+}
+
+#h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 24px;
+}
